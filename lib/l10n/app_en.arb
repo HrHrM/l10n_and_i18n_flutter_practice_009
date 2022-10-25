@@ -1,0 +1,23 @@
+{
+    "language": "English",
+    "@language": {
+        "description": "The Current language"
+    },
+    "helloWorld": "Hello World",
+    "@helloWorld": {
+        "description": "A Programmer greeting"
+    },
+    "appBarHelloWorld": "L10 and I18N Test",
+    "@appBarHelloWorld":{
+        "description": "Title for the hello world page's appbar"
+    },
+    "hello": "Hello {username}",
+    "@hello":{
+        "description": "Gretting to the user",
+        "placeholders": {
+            "username": {
+                "type": "String"
+            }
+        }
+    }
+}

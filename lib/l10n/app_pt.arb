@@ -1,0 +1,6 @@
+{
+    "language": "Português",
+    "helloWorld": "Olá Mundo!",
+    "appBarHelloWorld": "Teste L10 e I18N",
+    "hello": "Olá {username}"
+}
